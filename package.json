@@ -1,0 +1,19 @@
+{
+  "name": "unpopin_tower",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://simiraaaa@github.com/simiraaaa/unpopin_tower.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/simiraaaa/unpopin_tower/issues"
+  },
+  "homepage": "https://github.com/simiraaaa/unpopin_tower#readme"
+}
